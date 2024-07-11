@@ -13,7 +13,7 @@ To run the code, you will need:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/baseba/proyecto-recsys
 Open Google Colab
 
 Open Google Colab in your web browser: Google Colab
@@ -34,7 +34,7 @@ Run the Notebook
 Execute all the cells in the notebook to train and evaluate the recommender system.
 
 Repository Structure
-recommender_system.ipynb: The Jupyter Notebook with the recommender system code.
+main.ipynb: The Jupyter Notebook with the recommender system code.
 data/: Folder containing the datasets used to train and evaluate the model.
 README.md: This file.
 Datasets
