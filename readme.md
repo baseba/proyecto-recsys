@@ -20,7 +20,7 @@ Open Google Colab in your web browser: Google Colab
 
 Upload the Notebook
 
-Upload the recommender_system.ipynb file to the Google Colab environment.
+Upload the main.ipynb file to the Google Colab environment.
 
 Set up the runtime environment
 
